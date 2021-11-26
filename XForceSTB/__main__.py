@@ -77,7 +77,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- Hey There, I'm [Goku](https://telegra.ph/file/0e7ab643f949630fbb63c.jpg)
+ Hey There, I'm [Fischl](https://telegra.ph/file/512510f59f47730c3623f.jpg)
 I Am An Anime Themed Group Management Bot.
 Built By Weebs For Weebs, I Specialize In Managing Anime Eccentric Communities.
 """
@@ -107,7 +107,7 @@ buttons = [
 ] 
 
 HELP_STRINGS = """
-Hey there, I'm Son Goku!
+Hey there, I'm Fischl!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
